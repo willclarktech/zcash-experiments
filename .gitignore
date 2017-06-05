@@ -1,0 +1,12 @@
+.bash_history
+.bashrc
+.lesshst
+.node_repl_history
+.npm/
+.profile
+.viminfo
+.zcash-params/
+.zcash/
+node_modules/
+.ssh/
+.gitconfig
