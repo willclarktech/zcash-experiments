@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "zcash": "^0.0.5",
+    "zcash-primitives": "^0.1.0"
+  }
+}
